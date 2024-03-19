@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/nav_perfil"
+        android:title="@string/perfil"></item>
+
+    <item android:id="@+id/nav_pagamentos"
+        android:title="@string/pagamentos"></item>
+
+    <item android:id="@+id/nav_sobre"
+        android:title="@string/sobre"></item>
+
+    <item android:id="@+id/nav_logout"
+        android:title="@string/log_out"></item>
+
+</menu>
