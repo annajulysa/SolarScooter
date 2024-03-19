@@ -1,0 +1,25 @@
+{
+    "server":{
+        "port": 8088
+    },
+    "database": {
+        "host": "localhost",
+        "user": "PIS_G3",
+        "database": "solarscooter_bd",
+        "password": "solar"
+    },
+    "mqtt": {
+        "mqttHost": "192.168.137.15",
+        "protocol": "mqtt",
+        "port": "1883",
+        "username": "SolarScoot",
+        "password": "grupo3",
+        "clientId": "serverweb3",
+        "keepalive": 0,
+        "protocolId": "MQTT",
+        "protocolVersion": 4,
+        "clean": true,
+        "reconnectPeriod": 1000,
+        "connectTimeout": 30000
+    }
+}
